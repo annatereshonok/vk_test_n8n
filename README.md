@@ -42,16 +42,9 @@
 
 ### Workflow / интеграции
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="images/workflow.png" alt="Workflow" />
-    </td>
-    <td width="50%">
-      <img src="images/google%20disk.png" alt="Google Drive" />
-    </td>
-  </tr>
-</table>
+<img src="images/workflow.png" alt="Workflow" width="100%" />
+
+<img src="images/google%20disk.png" alt="Google Drive" width="100%" />
 
 ### Telegram / примеры результатов
 
